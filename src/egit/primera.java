@@ -6,6 +6,7 @@ public class primera {
 		// TODO Auto-generated method stub
 		System.out.println("Ya tengo repositorio");
 		System.out.println("Otro commit");
+		System.out.println("O");
 	}
 
 }
